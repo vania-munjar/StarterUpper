@@ -11,9 +11,9 @@ This repository contains a form-based GUI program designed to help organize prob
 - **Ranking System:** The program calculates and displays a rough ranking of the entered ideas based on their assessed value.
 
 - **Input Validation:** Implemented robust user input validation to ensure the integrity and accuracy of data entered into the form.
-- 
+
 # How to Use
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+1. Clone the repository: git clone https://github.com/vania-munjar/StarterUpper
 2. Open the project in your preferred IDE.
 3. Run the program and start organizing problem ideas!
 
